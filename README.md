@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abu Mohammad Noor</h1>
 <h3 align="center">A passionate Competitive Programmer from BD</h3>
 
+<img align = "right" alt = "coding" width = "400" src = "![image](https://github.com/Noor210111/Noor210111/assets/114507425/a52f40b0-fc09-4b12-aefe-da7adf958412)">
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor210111&label=Profile%20views&color=0e75b6&style=flat" alt="noor210111" /> </p>
 
 - 🌱 I’m currently learning **Android App Development**
