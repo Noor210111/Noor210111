@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
+- 🦾 Regular on **Codeforces**
+
 - 📫 How to reach me **noor.cse.pust@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
