@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abu Mohammad Noor</h1>
 <h3 align="center">A passionate Competitive Programmer from BD</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "![image](https://github.com/Noor210111/Noor210111/assets/114507425/a52f40b0-fc09-4b12-aefe-da7adf958412)">
+<img align = "right" alt = "coding" width = "400" src = "F:\GithubUpload\81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
 
