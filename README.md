@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor210111&label=Profile%20views&color=0e75b6&style=flat" alt="noor210111" /> </p>
 
+- 🦾 Regular on **Codeforces**
+
 - 🌱 I’m currently learning **Android App Development**
 
-- 🦾 Regular on **Codeforces**
+- 👨‍💻 I’m currently working on **A To Do** Android App project
 
 - 📫 How to reach me **noor.cse.pust@gmail.com**
 
