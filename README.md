@@ -23,7 +23,7 @@
 <a href="https://www.hackerrank.com/noor_cse_pust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="noor_cse_pust" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/noor210111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="noor210111" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/noor210111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="noor210111" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/abu mohammad noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abu mohammad noor" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@abumohammadnoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abu mohammad noor" height="30" width="40" /></a>
 <a href="https://discord.gg/noor_mugdho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="noor_mugdho" height="30" width="40" /></a>
 </p>
 
