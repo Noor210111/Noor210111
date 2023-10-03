@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/bu mohammad noor](https://www.linkedin.com/in/abu-mohammad-noor-961937231/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abu Mohammad Noor" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abu-mohammad-noor-961937231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abu Mohammad Noor" height="30" width="40" /></a>
 <a href="https://fb.com/abu mohammad noor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu mohammad noor" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/noor332" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="noor332" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/noor_cse_pust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="noor_cse_pust" height="30" width="40" /></a>
