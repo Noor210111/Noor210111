@@ -7,13 +7,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noor210111&label=Profile%20views&color=0e75b6&style=flat" alt="noor210111" /> </p>
 
-- 🦾 Regular on **Codeforces**
+- 🦾 Solving problems regularly on **LeetCode**, **Codeforces** etc.
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 Currently learning **Competitive Programming** and **App Development**
 
-- 👨‍💻 I’m currently working on **A To Do** Android App project
+- 👨‍💻 Currently working on **A To Do** Android App project
+- 👨‍💻 Currently working on **Smart Plant Watering System** hardware project
 
-- 📫 How to reach me **noor.cse.pust@gmail.com**
+- 📫 Contact me at **noor.cse.pust@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
