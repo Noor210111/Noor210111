@@ -1,7 +1,7 @@
 ![logo](https://github.com/Noor210111/Noor210111/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Noor</h1>
-<h3 align="center">Computer Science student and a passionate Competitive Programmer from BD</h3>
+<h3 align="center">Computer Science Student and a Passionate Competitive Programmer from BD</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -9,9 +9,9 @@
 
 - 🦾 Solving problems regularly on **LeetCode**, **Codeforces** etc.
 
-- 🌱 Currently learning **Competitive Programming** and **App Development**
+- 🌱 Currently learning **Competitive Programming** and **Web Development**
 
-- 👨‍💻 Currently working on **A To Do** Android App project
+- 👨‍💻 Currently working on **Event Management PUST** Web App project
 - 👨‍💻 Currently working on **Smart Plant Watering System** hardware project
 
 - 📫 Contact me at **noor.cse.pust@gmail.com**
